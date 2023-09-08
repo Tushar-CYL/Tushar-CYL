@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tushar-CYL
+- 👋 Hi, I’m @Tushar
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
