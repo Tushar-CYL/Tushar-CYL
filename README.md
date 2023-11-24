@@ -1,6 +1,6 @@
 ![logo](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
-<h1 align="center">Hi 👋, I'm Kesri</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Tushar</h1>
+<h3 align="center">A passionate Developer and data analytics from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kesri9211&label=Profile%20views&color=0e75b6&style=flat" alt="kesri9211" /> </p>
@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [link](link)
 
-- 💬 Ask me about **java python c react**
+- 💬 Ask me about **java python Data Science PHP SQL pytorch**
 
-- 📫 How to reach me **kns9839@gmail.com**
+- 📫 How to reach me **tkantipatra357@gmail.com**
 
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences [link](https://tushar-cyl.github.io/profile/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
