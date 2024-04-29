@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [Tushar's workspace](https://tushar-cyl.github.io/pf/)
+- 👨‍💻 All of my projects are available at [Tushar's workspace](https://tkpprofile.netlify.app/)
 
-- 💬 Ask me about **Java, Python, PHP , NodeJS , Data Science, DSA, MERN**
+- 💬 Ask me about **Java, Python, PHP , Data Science, DSA, 
 
 - 📫 How to reach me **tkantipatra357@gmail.com**
 
