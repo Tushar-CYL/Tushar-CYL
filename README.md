@@ -6,7 +6,7 @@
     🔥 Data Engineer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: Python, DL, ML, Snowflake❄️, PgSQL ... <br>
     :email:	t.kantipatra@gmail.com <br>
-    :art: Portfolio: https://github.com/Tushar-CYL <br>
+    :art: Portfolio: tkpprofile.netlify.app <br>
                 Twitter: https://x.com/Tushar_Kanti31<br>
   </samp>
 </p>
