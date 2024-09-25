@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=tusharkpatra&color=blue)
+  <a href="https://github.com/tusharkpatra"><img src="https://komarev.com/ghpvc/?username=tusharkpatra&color=blue&style=for-the-badge" alt="Profile views"></a>
 </p>
