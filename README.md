@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> 
     <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"> 
     <br><br>
-    :email: **Email**: <a href="mailto:t.kantipatra@gmail.com">t.kantipatra@gmail.com</a> <br>
-    🌐 **Portfolio**: <a href="https://tkpprofile.netlify.app" target="_blank">tkpprofile.netlify.app</a> <br>
-    🐦 **Twitter**: <a href="https://x.com/Tushar_Kanti31" target="_blank">@Tushar_Kanti31</a> <br>
+    :email: **Email**: <a href="mailto:t.kantipatra@gmail.com">Email</a> <br>
+    🌐 **Portfolio**: <a href="https://tkpprofile.netlify.app" target="_blank">Tushar</a> <br>
+    🐦 **Twitter**: <a href="https://x.com/Tushar_Kanti31" target="_blank">@Tushar_Kanti</a> <br>
     💼 **LinkedIn**: <a href="https://www.linkedin.com/in/tushar-kanti01/" target="_blank">Tushar Kanti Patra</a> <br>
   </samp>
 </p>
