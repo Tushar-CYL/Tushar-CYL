@@ -176,36 +176,9 @@ end-to-end       ·  vector search ready
 
 <hr>
 
-<!-- ===================== GITHUB STATS (activate by setting your handle) ===================== -->
-<h2 align="center">◆ &nbsp; GITHUB ACTIVITY &nbsp; ◆</h2>
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" style="border:none;">
-        <img height="196" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=FFFFFF&text_color=A0A0A0&icon_color=FFFFFF" alt="stats">
-      </td>
-      <td align="center" style="border:none;">
-        <img height="196" src="https://streak-stats.demolab.com/?user=your-github-username&hide_border=false&border=30363D&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A0A0A0&dates=A0A0A0&sideNums=FFFFFF&currStreakNum=FFFFFF&titleColor=FFFFFF" alt="streak">
-      </td>
-    </tr>
-  </table>
 
-  <br>
-
-  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=1C1C1C" alt="activity graph">
-</div>
-
-<hr>
-
-<!-- ===================== SNAKE ===================== -->
-<h2 align="center">◆ &nbsp; CONTRIBUTIONS &nbsp; ◆</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="snake">
-</div>
-
-<br>
+ 
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
