@@ -15,16 +15,15 @@
 
 <br><br>
 
-<!-- TODO: replace YOUR_GH_USERNAME below with your real GitHub handle -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GH_USERNAME&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="views">
-<img src="https://img.shields.io/github/followers/YOUR_GH_USERNAME?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=000000&logo=github" alt="followers">
+<!-- TODO: replace your-github-username (3 spots in this file) with your real GitHub handle -->
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="views">
+<img src="https://img.shields.io/github/followers/your-github-username?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=000000&logo=github" alt="followers">
 
 </div>
 
 <hr>
 
-<!-- ===================== WHOAMI ===================== -->
-<div align="center">
+<!-- ===================== WHOAMI (left-aligned so columns line up) ===================== -->
 
 ```
 
@@ -37,19 +36,17 @@
    >  Obsessed with scalable pipelines, observability & clean MLOps
 
  ╭──────────────────────────────────────────────────────────╮
- │  tushar@motorola:~$ cat profile.txt                       │
+ │  tushar@motorola:~$ cat profile.txt                        │
  ╰──────────────────────────────────────────────────────────╯
 
-   role        →  AI Data Engineer @ Motorola Solutions
-   location    →  Bangalore, India
-   education   →  MCA, VIT (2023–2025)  ·  BCA, Brainware (2020–2023)
-   focus       →  GenAI · Agentic AI · RAG · MLOps / LLMOps
-   frameworks  →  LangChain · LangGraph · MCP · A2A
-   model       →  tryn-mini7m  ·  10,000+ downloads  ·  hf.co/LNTTushar
+   role        ->  AI Data Engineer @ Motorola Solutions
+   location    ->  Bangalore, India
+   education   ->  MCA, VIT (2023-2025)  |  BCA, Brainware (2020-2023)
+   focus       ->  GenAI | Agentic AI | RAG | MLOps / LLMOps
+   frameworks  ->  LangChain | LangGraph | MCP | A2A
+   model       ->  tryn-mini7m | 10,000+ downloads | hf.co/LNTTushar
 
 ```
-
-</div>
 
 <hr>
 
@@ -159,24 +156,45 @@ end-to-end       ·  vector search ready
 
 <hr>
 
-<!-- ===================== STATS ===================== -->
-<h2 align="center">◆ &nbsp; THE NUMBERS &nbsp; ◆</h2>
+<!-- ===================== IMPACT (always works, no username needed) ===================== -->
+<h2 align="center">◆ &nbsp; IMPACT IN NUMBERS &nbsp; ◆</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&height=40&lines=500K%2B+events+processed+every+single+day;10%2C000%2B+model+downloads+on+Hugging+Face;99.5%25+uptime+%C2%B7+24+MCP+tools+%C2%B7+0+SLA+breaches;50%25+faster+resolution+%C2%B7+40%25+lower+MTTD" alt="impact ticker">
+
+<br>
+
+<img src="https://img.shields.io/badge/500K%2B-DAILY%20EVENTS-000000?style=for-the-badge&labelColor=000000">
+<img src="https://img.shields.io/badge/10K%2B-MODEL%20DOWNLOADS-000000?style=for-the-badge&labelColor=000000">
+<img src="https://img.shields.io/badge/99.5%25-UPTIME-000000?style=for-the-badge&labelColor=000000">
+<br>
+<img src="https://img.shields.io/badge/24-MCP%20TOOLS-000000?style=for-the-badge&labelColor=000000">
+<img src="https://img.shields.io/badge/50%25-FASTER%20RESOLUTION-000000?style=for-the-badge&labelColor=000000">
+<img src="https://img.shields.io/badge/40%25-LOWER%20MTTD-000000?style=for-the-badge&labelColor=000000">
+
+</div>
+
+<hr>
+
+<!-- ===================== GITHUB STATS (activate by setting your handle) ===================== -->
+<h2 align="center">◆ &nbsp; GITHUB ACTIVITY &nbsp; ◆</h2>
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" style="border:none;">
-        <img height="196" src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true&count_private=true&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=FFFFFF&text_color=A0A0A0&icon_color=FFFFFF" alt="stats">
+        <img height="196" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=FFFFFF&text_color=A0A0A0&icon_color=FFFFFF" alt="stats">
       </td>
       <td align="center" style="border:none;">
-        <img height="196" src="https://streak-stats.demolab.com/?user=YOUR_GH_USERNAME&hide_border=false&border=30363D&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A0A0A0&dates=A0A0A0&sideNums=FFFFFF&currStreakNum=FFFFFF&titleColor=FFFFFF" alt="streak">
+        <img height="196" src="https://streak-stats.demolab.com/?user=your-github-username&hide_border=false&border=30363D&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A0A0A0&dates=A0A0A0&sideNums=FFFFFF&currStreakNum=FFFFFF&titleColor=FFFFFF" alt="streak">
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GH_USERNAME&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=1C1C1C" alt="activity graph">
+  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=1C1C1C" alt="activity graph">
 </div>
 
 <hr>
@@ -185,12 +203,12 @@ end-to-end       ·  vector search ready
 <h2 align="center">◆ &nbsp; CONTRIBUTIONS &nbsp; ◆</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GH_USERNAME/YOUR_GH_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </div>
 
 <br>
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=110&section=footer&text=let's+build+intelligent+systems&fontSize=20&fontColor=FFFFFF&animation=twinkling&fontAlignY=72" width="100%" alt="footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2a2a2a&height=120&section=footer&text=let's+build+intelligent+systems&fontSize=20&fontColor=FFFFFF&animation=twinkling&fontAlignY=72" width="100%" alt="footer">
 </div>
