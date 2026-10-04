@@ -40,7 +40,7 @@
 
    role        ->  AI Data Engineer @ Motorola Solutions
    location    ->  Bangalore, India
-   education   ->  MCA, VIT (2023-2025)  |  BCA, Brainware (2020-2023)
+   education   ->  Master's, VIT (2023-2025)  |  Bachelor's, Brainware (2020-2023)
    focus       ->  GenAI | Agentic AI | RAG | MLOps / LLMOps
    frameworks  ->  LangChain | LangGraph | MCP | A2A
    model       ->  tryn-mini7m | 10,000+ downloads | hf.co/LNTTushar
