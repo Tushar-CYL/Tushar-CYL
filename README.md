@@ -16,8 +16,7 @@
 <br><br>
 
 <!-- TODO: replace your-github-username (3 spots in this file) with your real GitHub handle -->
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="views">
-<img src="https://img.shields.io/github/followers/your-github-username?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=000000&logo=github" alt="followers">
+
 
 </div>
 
